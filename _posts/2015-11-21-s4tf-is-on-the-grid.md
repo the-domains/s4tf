@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Our very first GRID post!'
-datePublished: '2015-11-21T19:12:06.199Z'
-dateModified: '2015-11-21T19:11:53.492Z'
+datePublished: '2015-11-21T19:27:09.575Z'
+dateModified: '2015-11-21T19:14:43.944Z'
 title: S4TF is on the GRID
 author: []
 authors: []
